@@ -1,0 +1,22 @@
+
+
+*{
+    text-align: center;
+    justify-content: center;
+}
+
+.row {
+padding: 5px;
+}
+
+.roundedsh  {
+  border-radius: 50% ;  
+}
+
+#about {
+    background-color: gray;
+}
+
+#contact {
+    background-color: lightblue;
+}
